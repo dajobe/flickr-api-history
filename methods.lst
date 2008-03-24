@@ -89,6 +89,7 @@ flickr.places.findByLatLon
 flickr.places.resolvePlaceId
 flickr.places.resolvePlaceURL
 flickr.prefs.getContentType
+flickr.prefs.getGeoPerms
 flickr.prefs.getHidden
 flickr.prefs.getPrivacy
 flickr.prefs.getSafetyLevel
