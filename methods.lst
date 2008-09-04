@@ -86,6 +86,7 @@ flickr.photosets.orderSets
 flickr.photosets.removePhoto
 flickr.places.find
 flickr.places.findByLatLon
+flickr.places.placesForUser
 flickr.places.resolvePlaceId
 flickr.places.resolvePlaceURL
 flickr.prefs.getContentType
