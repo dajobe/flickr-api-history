@@ -96,6 +96,7 @@ flickr.prefs.getPrivacy
 flickr.prefs.getSafetyLevel
 flickr.reflection.getMethodInfo
 flickr.reflection.getMethods
+flickr.tags.getClusterPhotos
 flickr.tags.getClusters
 flickr.tags.getHotList
 flickr.tags.getListPhoto
