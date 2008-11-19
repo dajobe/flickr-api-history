@@ -21,6 +21,10 @@ flickr.groups.pools.getPhotos
 flickr.groups.pools.remove
 flickr.groups.search
 flickr.interestingness.getList
+flickr.machinetags.getNamespaces
+flickr.machinetags.getPairs
+flickr.machinetags.getPredicates
+flickr.machinetags.getValues
 flickr.people.findByEmail
 flickr.people.findByUsername
 flickr.people.getInfo
