@@ -37,9 +37,13 @@ flickr.photos.comments.deleteComment
 flickr.photos.comments.editComment
 flickr.photos.comments.getList
 flickr.photos.delete
+flickr.photos.geo.batchCorrectLocation
+flickr.photos.geo.correctLocation
 flickr.photos.geo.getLocation
 flickr.photos.geo.getPerms
+flickr.photos.geo.photosForLocation
 flickr.photos.geo.removeLocation
+flickr.photos.geo.setContext
 flickr.photos.geo.setLocation
 flickr.photos.geo.setPerms
 flickr.photos.getAllContexts
@@ -93,6 +97,7 @@ flickr.places.findByLatLon
 flickr.places.getChildrenWithPhotosPublic
 flickr.places.getInfo
 flickr.places.getInfoByUrl
+flickr.places.placesForBoundingBox
 flickr.places.placesForUser
 flickr.places.resolvePlaceId
 flickr.places.resolvePlaceURL
