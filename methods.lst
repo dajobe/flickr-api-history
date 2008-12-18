@@ -97,7 +97,10 @@ flickr.places.findByLatLon
 flickr.places.getChildrenWithPhotosPublic
 flickr.places.getInfo
 flickr.places.getInfoByUrl
+flickr.places.getPlaceTypes
 flickr.places.placesForBoundingBox
+flickr.places.placesForContacts
+flickr.places.placesForTags
 flickr.places.placesForUser
 flickr.places.resolvePlaceId
 flickr.places.resolvePlaceURL
