@@ -7,6 +7,7 @@ flickr.auth.getToken
 flickr.blogs.getList
 flickr.blogs.postPhoto
 flickr.contacts.getList
+flickr.contacts.getListRecentlyUploaded
 flickr.contacts.getPublicList
 flickr.favorites.add
 flickr.favorites.getList
@@ -98,12 +99,14 @@ flickr.places.getChildrenWithPhotosPublic
 flickr.places.getInfo
 flickr.places.getInfoByUrl
 flickr.places.getPlaceTypes
+flickr.places.getShapeHistory
 flickr.places.placesForBoundingBox
 flickr.places.placesForContacts
 flickr.places.placesForTags
 flickr.places.placesForUser
 flickr.places.resolvePlaceId
 flickr.places.resolvePlaceURL
+flickr.places.tagsForPlace
 flickr.prefs.getContentType
 flickr.prefs.getGeoPerms
 flickr.prefs.getHidden
