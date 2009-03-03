@@ -16,6 +16,7 @@ flickr.favorites.getPublicList
 flickr.favorites.remove
 flickr.groups.browse
 flickr.groups.getInfo
+flickr.groups.members.getList
 flickr.groups.pools.add
 flickr.groups.pools.getContext
 flickr.groups.pools.getGroups
