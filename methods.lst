@@ -28,6 +28,8 @@ flickr.machinetags.getNamespaces
 flickr.machinetags.getPairs
 flickr.machinetags.getPredicates
 flickr.machinetags.getValues
+flickr.panda.getList
+flickr.panda.getPhotos
 flickr.people.findByEmail
 flickr.people.findByUsername
 flickr.people.getInfo
