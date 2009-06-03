@@ -6,6 +6,8 @@ flickr.auth.getFullToken
 flickr.auth.getToken
 flickr.blogs.getList
 flickr.blogs.postPhoto
+flickr.collections.getInfo
+flickr.collections.getTree
 flickr.commons.getInstitutions
 flickr.contacts.getList
 flickr.contacts.getListRecentlyUploaded
