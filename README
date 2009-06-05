@@ -1,0 +1,12 @@
+History of the methods in the Flickr API as recorded by me
+running the flickcurl list-methods example program which calls
+  flickr.reflection.getMethods
+  http://www.flickr.com/services/api/flickr.reflection.getMethods.html
+
+The best view of this is the 'blame' or 'annotate' view of the methods.lst file which shows at what date time (approximately), new API calls were added.
+
+Dave Beckett
+http://www.dajobe.org/  2009-06-04
+
+PS This was converted from raw files -> RCS -> CVS -> GIT so there are
+probably conversion artifacts and the timezone was set to UTC.
