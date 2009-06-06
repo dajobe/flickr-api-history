@@ -29,6 +29,7 @@ flickr.interestingness.getList
 flickr.machinetags.getNamespaces
 flickr.machinetags.getPairs
 flickr.machinetags.getPredicates
+flickr.machinetags.getRecentValues
 flickr.machinetags.getValues
 flickr.panda.getList
 flickr.panda.getPhotos
