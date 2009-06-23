@@ -44,6 +44,7 @@ flickr.photos.comments.addComment
 flickr.photos.comments.deleteComment
 flickr.photos.comments.editComment
 flickr.photos.comments.getList
+flickr.photos.comments.getRecentForContacts
 flickr.photos.delete
 flickr.photos.geo.batchCorrectLocation
 flickr.photos.geo.correctLocation
