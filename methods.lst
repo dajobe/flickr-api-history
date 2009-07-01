@@ -5,6 +5,7 @@ flickr.auth.getFrob
 flickr.auth.getFullToken
 flickr.auth.getToken
 flickr.blogs.getList
+flickr.blogs.getServices
 flickr.blogs.postPhoto
 flickr.collections.getInfo
 flickr.collections.getTree
