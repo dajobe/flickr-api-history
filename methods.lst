@@ -109,6 +109,7 @@ flickr.places.getInfo
 flickr.places.getInfoByUrl
 flickr.places.getPlaceTypes
 flickr.places.getShapeHistory
+flickr.places.getTopPlacesList
 flickr.places.placesForBoundingBox
 flickr.places.placesForContacts
 flickr.places.placesForTags
