@@ -40,6 +40,7 @@ flickr.panda.getPhotos
 flickr.people.findByEmail
 flickr.people.findByUsername
 flickr.people.getInfo
+flickr.people.getPhotos
 flickr.people.getPhotosOf
 flickr.people.getPublicGroups
 flickr.people.getPublicPhotos
@@ -155,6 +156,7 @@ flickr.tags.getListUser
 flickr.tags.getListUserPopular
 flickr.tags.getListUserRaw
 flickr.tags.getRelated
+flickr.test.echo
 flickr.test.login
 flickr.test.null
 flickr.urls.getGroup
