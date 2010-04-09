@@ -18,8 +18,14 @@ flickr.favorites.getList
 flickr.favorites.getPublicList
 flickr.favorites.remove
 flickr.galleries.addPhoto
+flickr.galleries.create
+flickr.galleries.editMeta
+flickr.galleries.editPhoto
+flickr.galleries.editPhotos
+flickr.galleries.getInfo
 flickr.galleries.getList
 flickr.galleries.getListForPhoto
+flickr.galleries.getPhotos
 flickr.groups.browse
 flickr.groups.getInfo
 flickr.groups.members.getList
@@ -162,5 +168,6 @@ flickr.test.null
 flickr.urls.getGroup
 flickr.urls.getUserPhotos
 flickr.urls.getUserProfile
+flickr.urls.lookupGallery
 flickr.urls.lookupGroup
 flickr.urls.lookupUser
