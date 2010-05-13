@@ -140,6 +140,7 @@ flickr.prefs.getPrivacy
 flickr.prefs.getSafetyLevel
 flickr.reflection.getMethodInfo
 flickr.reflection.getMethods
+flickr.stats.getCSVFiles
 flickr.stats.getCollectionDomains
 flickr.stats.getCollectionReferrers
 flickr.stats.getCollectionStats
