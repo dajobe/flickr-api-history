@@ -118,6 +118,9 @@ flickr.photosets.getList
 flickr.photosets.getPhotos
 flickr.photosets.orderSets
 flickr.photosets.removePhoto
+flickr.photosets.removePhotos
+flickr.photosets.reorderPhotos
+flickr.photosets.setPrimaryPhoto
 flickr.places.find
 flickr.places.findByLatLon
 flickr.places.getChildrenWithPhotosPublic
