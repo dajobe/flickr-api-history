@@ -15,6 +15,7 @@ flickr.contacts.getList
 flickr.contacts.getListRecentlyUploaded
 flickr.contacts.getPublicList
 flickr.favorites.add
+flickr.favorites.getContext
 flickr.favorites.getList
 flickr.favorites.getPublicList
 flickr.favorites.remove
@@ -142,6 +143,10 @@ flickr.prefs.getGeoPerms
 flickr.prefs.getHidden
 flickr.prefs.getPrivacy
 flickr.prefs.getSafetyLevel
+flickr.push.getSubscriptions
+flickr.push.getTopics
+flickr.push.subscribe
+flickr.push.unsubscribe
 flickr.reflection.getMethodInfo
 flickr.reflection.getMethods
 flickr.stats.getCSVFiles
