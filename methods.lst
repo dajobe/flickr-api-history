@@ -15,6 +15,7 @@ flickr.commons.getInstitutions
 flickr.contacts.getList
 flickr.contacts.getListRecentlyUploaded
 flickr.contacts.getPublicList
+flickr.contacts.getTaggingSuggestions
 flickr.favorites.add
 flickr.favorites.getContext
 flickr.favorites.getList
@@ -30,7 +31,15 @@ flickr.galleries.getList
 flickr.galleries.getListForPhoto
 flickr.galleries.getPhotos
 flickr.groups.browse
+flickr.groups.discuss.replies.add
+flickr.groups.discuss.replies.delete
+flickr.groups.discuss.replies.edit
+flickr.groups.discuss.replies.getList
+flickr.groups.discuss.topics.add
+flickr.groups.discuss.topics.getList
 flickr.groups.getInfo
+flickr.groups.join
+flickr.groups.leave
 flickr.groups.members.getList
 flickr.groups.pools.add
 flickr.groups.pools.getContext
@@ -48,7 +57,9 @@ flickr.panda.getList
 flickr.panda.getPhotos
 flickr.people.findByEmail
 flickr.people.findByUsername
+flickr.people.getGroups
 flickr.people.getInfo
+flickr.people.getLimits
 flickr.people.getPhotos
 flickr.people.getPhotosOf
 flickr.people.getPublicGroups
@@ -104,6 +115,11 @@ flickr.photos.setMeta
 flickr.photos.setPerms
 flickr.photos.setSafetyLevel
 flickr.photos.setTags
+flickr.photos.suggestions.approveSuggestion
+flickr.photos.suggestions.getList
+flickr.photos.suggestions.rejectSuggestion
+flickr.photos.suggestions.removeSuggestion
+flickr.photos.suggestions.suggestLocation
 flickr.photos.transform.rotate
 flickr.photos.upload.checkTickets
 flickr.photosets.addPhoto
@@ -172,6 +188,7 @@ flickr.tags.getListPhoto
 flickr.tags.getListUser
 flickr.tags.getListUserPopular
 flickr.tags.getListUserRaw
+flickr.tags.getMostFrequentlyUsed
 flickr.tags.getRelated
 flickr.test.echo
 flickr.test.login
