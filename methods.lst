@@ -34,8 +34,10 @@ flickr.groups.browse
 flickr.groups.discuss.replies.add
 flickr.groups.discuss.replies.delete
 flickr.groups.discuss.replies.edit
+flickr.groups.discuss.replies.getInfo
 flickr.groups.discuss.replies.getList
 flickr.groups.discuss.topics.add
+flickr.groups.discuss.topics.getInfo
 flickr.groups.discuss.topics.getList
 flickr.groups.getInfo
 flickr.groups.join
