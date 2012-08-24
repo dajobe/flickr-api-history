@@ -41,6 +41,7 @@ flickr.groups.discuss.topics.getInfo
 flickr.groups.discuss.topics.getList
 flickr.groups.getInfo
 flickr.groups.join
+flickr.groups.joinRequest
 flickr.groups.leave
 flickr.groups.members.getList
 flickr.groups.pools.add
