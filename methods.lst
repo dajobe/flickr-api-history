@@ -9,6 +9,8 @@ flickr.auth.oauth.getAccessToken
 flickr.blogs.getList
 flickr.blogs.getServices
 flickr.blogs.postPhoto
+flickr.cameras.getBrandModels
+flickr.cameras.getBrands
 flickr.collections.getInfo
 flickr.collections.getTree
 flickr.commons.getInstitutions
