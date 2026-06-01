@@ -9,6 +9,7 @@ packages = ["flickr_api_history"]
 include = [
     "/.gitignore",
     "/.python-version",
+    "/api-changes.md",
     "/Makefile",
     "/README.md",
     "/archive",
